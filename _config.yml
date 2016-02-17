@@ -2,12 +2,13 @@ name: Divinely Creative
 favicon: null
 layout_spectrum: 0.6729705617763102
 typography_spectrum: 0.20315383188426495
+title: Divinely Creative
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-000000-11
   facebook: null
   twitter: null
 opengraph:
