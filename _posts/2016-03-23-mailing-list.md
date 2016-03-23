@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-23T09:02:40.810Z'
-dateModified: '2016-03-23T09:01:16.265Z'
+description: Sign up to get fresh exclusive content when each Divinely Creative podcast episode launches.
+datePublished: '2016-03-23T09:50:08.054Z'
+dateModified: '2016-03-23T09:50:07.621Z'
 title: Mailing List
 author: []
+sourcePath: _posts/2016-03-23-mailing-list.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-mailing-list.md
-published: true
 url: mailing-list/index.html
 _type: WebPage
 
