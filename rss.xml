@@ -4,7 +4,7 @@
         <description><![CDATA[Divinely Creative]]></description>
         <link>http://divinelycreative.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 18:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 18:55:34 GMT</lastBuildDate>
         <atom:link href="http://divinelycreative.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://divinelycreative.me/bd208227-812a-4d86-ab52-e5f2bd29ac46/index.html</link>
             <guid isPermaLink="false">bd208227-812a-4d86-ab52-e5f2bd29ac46</guid>
             <pubDate>Wed, 17 Feb 2016 16:48:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d757b91e-a6b1-408e-9c14-d178afe930d3.png" alt="" title="" />]]></description>
+            <link>http://divinelycreative.me/sign-up-to-get-fresh-exclusive-content-when-each-divinely-cr/index.html</link>
+            <guid isPermaLink="false">a203068b-a99d-4ea6-a1dc-38ca6cb3ba65</guid>
+            <pubDate>Wed, 23 Mar 2016 18:54:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[003: Travel buzz into productive challenge kick | Divinely Creative]]></title>
@@ -68,13 +75,6 @@
             <link>http://divinelycreative.me/36cd1017-60b4-453c-b48e-ae508ddc6b4a/index.html</link>
             <guid isPermaLink="false">36cd1017-60b4-453c-b48e-ae508ddc6b4a</guid>
             <pubDate>Wed, 17 Feb 2016 15:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da2ece8-eb6c-40d1-bd13-28981c36763a.png">]]></description>
-            <link>http://divinelycreative.me/c74c3c8e-47e3-4c37-a2c9-b17595c5b8d9/index.html</link>
-            <guid isPermaLink="false">c74c3c8e-47e3-4c37-a2c9-b17595c5b8d9</guid>
-            <pubDate>Wed, 17 Feb 2016 16:51:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
