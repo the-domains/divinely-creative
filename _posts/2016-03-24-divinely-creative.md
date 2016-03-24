@@ -1,25 +1,28 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://catalysee.us10.list-manage.com'
-  name: List-manage
-  favicon: null
-  domain: catalysee.us10.list-manage.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: Divinely Creative Email Forms
+datePublished: '2016-03-24T10:48:41.789Z'
+dateModified: '2016-03-24T10:48:29.961Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://catalysee.us10.list-manage.com/subscribe?u=4c0e713e797d19e4805b7c52b&id=c2a7329296'
 title: Divinely Creative
-datePublished: '2016-03-24T10:36:05.763Z'
-dateModified: '2016-03-24T10:31:51.016Z'
 sourcePath: _posts/2016-03-24-divinely-creative.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: List-manage
+  domain: catalysee.us10.list-manage.com
+  url: 'http://catalysee.us10.list-manage.com'
+  favicon: null
+url: divinely-creative/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Divinely Creative</h1><p>Divinely Creative Email Forms</p><img src="https://gallery.mailchimp.com/4c0e713e797d19e4805b7c52b/images/f42ff958-a5c7-49c0-98ef-15e0e96719f1.png" /></article>
+<article style=""><h1>Sign Up | Be First</h1><p>Sign Up | Be First</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a00703528192f8794a5147164a9f1ae87404ce23.png" /></article>
