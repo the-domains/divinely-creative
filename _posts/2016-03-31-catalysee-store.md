@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Watery Design goods prepared with the best quality & love.'
-datePublished: '2016-03-31T08:55:51.559Z'
-dateModified: '2016-03-31T08:53:53.234Z'
+datePublished: '2016-03-31T08:58:35.944Z'
+dateModified: '2016-03-31T08:58:23.588Z'
 title: Catalysee Store
 author: []
 sourcePath: _posts/2016-03-31-catalysee-store.md
@@ -30,7 +30,9 @@ _type: WebPage
 
 Prepared with the best quality to be sent right to your hands & prepared with love.
 
-[Go][0]. Be Inspired.
+[Go][0]. 
+
+Be Inspired.
 
 [LearnWateryDesign][1] |[\#creativemuscle][2]|  [Catalysee][3]
 
