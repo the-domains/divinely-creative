@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://store.catalysee.com/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Watery Design goods prepared with the best quality & love.'
-datePublished: '2016-03-31T09:35:17.446Z'
-dateModified: '2016-03-31T09:35:16.769Z'
+datePublished: '2016-03-31T09:38:13.530Z'
+dateModified: '2016-03-31T09:38:05.237Z'
 title: Catalysee Store
 author: []
 sourcePath: _posts/2016-03-31-catalysee-store.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: catalysee-store/index.html
+_type: WebPage
 
 ---
 > Watery Design goods prepared with the best quality & love
