@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Watery Design goods prepared with the best quality & love.'
-datePublished: '2016-03-31T08:49:40.114Z'
-dateModified: '2016-03-31T08:49:30.957Z'
+datePublished: '2016-03-31T08:53:43.146Z'
+dateModified: '2016-03-31T08:53:39.706Z'
 title: Catalysee Store
 author: []
 sourcePath: _posts/2016-03-31-catalysee-store.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 > Watery Design goods prepared with the best quality & love
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d235f07c-0e6b-4356-b505-8c55b7db2fc5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8e6c08c8b7a9871c2099f8ff341388f9eddf794.png)
 
 **Watery Design **-- is design made from 3D fluid simulations, real life fluids or both combined. Term is created to describe this specific field and establish it into the design world. Here you'll find**watery design goods**: from prints, cards, gifts to 3D working shapes (coming in 2016).
 
