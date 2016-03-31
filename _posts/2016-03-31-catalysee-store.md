@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Watery Design goods prepared with the best quality & love'
-datePublished: '2016-03-31T09:45:05.487Z'
-dateModified: '2016-03-31T09:44:51.819Z'
+description: "Watery Design\_– is design made from 3D fluid simulations, real life fluids or both combined.\_Term is created to describe this specific field and establish\_it into the design world.\_Here you’ll findwatery design goods: from prints, cards, gifts to 3D working shapes (coming in 2016)."
+datePublished: '2016-03-31T10:29:55.054Z'
+dateModified: '2016-03-31T09:47:57.376Z'
 title: Store
 author: []
 sourcePath: _posts/2016-03-31-catalysee-store.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 > Watery Design goods prepared with the best quality & love
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8cde87a-55b4-4184-94c8-65a5afaaf654.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/83a5a0095a6365f036b08cf4d966cb5f993e92ae.jpg)
 
 **Watery Design **-- is design made from 3D fluid simulations, real life fluids or both combined. Term is created to describe this specific field and establish it into the design world. Here you'll find**watery design goods**: from prints, cards, gifts to 3D working shapes (coming in 2016).
 
