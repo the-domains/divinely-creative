@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://itunes.apple.com/lt/podcast/divinely-creative/id1096517304?mt=2'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - greater
   - solutions
 description: Download past episodes or subscribe to future episodes of Divinely Creative by Catalysee for free.
-datePublished: '2016-03-31T10:42:21.097Z'
-dateModified: '2016-03-31T10:42:04.052Z'
+datePublished: '2016-03-31T10:49:42.391Z'
+dateModified: '2016-03-31T10:49:34.055Z'
 author: []
 related:
   - score: 0.6051089168
@@ -29,15 +28,16 @@ related:
     thumbnail_url: 'http://cdn.slidesharecdn.com/ss_thumbnails/kpjrhx5stgaqoaesnh7r-signature-3f945d39ba23dd9cfcfd3fee5874bd5293c55aa2180b30512d3379a1f65479ee-poli-150716175148-lva1-app6892-thumbnail-4.jpg?cb=1438021298'
     thumbnail_width: 768
 app_links: []
-title: Divinely Creative by Catalysee on iTunes
+title: iTunes
+sourcePath: _posts/2016-03-31-divinely-creative-by-catalysee-on-itunes.md
+published: true
 authors: []
 publisher:
   name: iTunes
   domain: itunes.apple.com
   url: 'http://itunes.apple.com'
   favicon: 'https://itunes.apple.com/favicon.ico'
-sourcePath: _posts/2016-03-31-divinely-creative-by-catalysee-on-itunes.md
-published: true
+url: itunes/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
