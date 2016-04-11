@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://divinelycreative.simplecast.fm/episodes/34981-005-how-to-kill-the-self-doubt'
 title: '005: How to kill the Self-Doubt | Divinely Creative'
-datePublished: '2016-04-11T14:04:58.715Z'
-dateModified: '2016-04-11T14:03:46.389Z'
+datePublished: '2016-04-11T14:08:26.374Z'
+dateModified: '2016-04-11T14:08:14.343Z'
 sourcePath: _posts/2016-04-11-005-how-to-kill-the-self-doubt-or-divinely-creative.md
 published: true
 inFeed: true
